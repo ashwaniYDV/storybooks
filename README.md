@@ -18,3 +18,8 @@ npm run dev
 # Run in production
 npm start
 ```
+### Screenshots
+![login screen](./screens/1.png)
+![dashboard screen](./screens/2.png)
+![stories screen](./screens/3.png)
+![editor screen](./screens/4.png)
